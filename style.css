@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    height: 100vh;
+}
+.Campo_div{
+    background-color: black;
+  width: 200px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+h1{
+    color: white;
+    text-align: center;
+  
+}
+div img{
+    width: 200px;
+    display:flex;
+   
+}
+article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
